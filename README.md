@@ -1,4 +1,4 @@
-add feature there
+add feature there is
 
 # Lab 2: Branching and Merging
 
